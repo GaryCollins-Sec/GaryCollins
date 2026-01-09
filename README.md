@@ -48,7 +48,8 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 ![Fakenet-NG](https://img.shields.io/badge/-Fakenet--NG-008080?&style=for-the-badge&logo=network-wired&logoColor=FFFFFF)
 
 
-
+### Database Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 </div>
