@@ -17,7 +17,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 | Cloud Security Lab |  <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab </a>                     |
 |AI Threat Modeling – Agricultural System (PEAT) | <a href="https://github.com/GaryCollins-Sec/AI-Threat-Modeling-Agricultural-System-PEAT-/tree/main" >AI Threat Modeling – Agricultural System (PEAT) </a>
-| ML Security Testing & Attacking Simulation Project |  <a href= "https://github.com/GaryCollins-Sec/ML-Security-Testing-and-Attacking-Simulation-Project"> ML Security Testing & Attacking Simulation Project</a>              |
+| Predictive Attack Surface Triage Framework |   <a href="https://github.com/GaryCollins-Sec/Predictive-Attack-Surface-Trage-Framework">Predictive Attack Surface Triage Framework</a>          |
 | Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
 
 
@@ -149,5 +149,5 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
 - <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab</a>
 - <a href="https://github.com/Garycyberknight1/AI-Threat-Modeling-Agricultural-System-PEAT-/tree/main" >AI Threat Modeling – Agricultural System (PEAT) </a>
-- <a href= "https://github.com/GaryCollins-Sec/ML-Security-Testing-and-Attacking-Simulation-Project"> ML Security Testing & Attacking Simulation Project</a>
+-  <a href= "https://github.com/GaryCollins-Sec/Predictive-Attack-Surface-Trage-Framework"> Predictive Attack Surface Triage Framework </a>
 - <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
