@@ -19,7 +19,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 |Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |               
 |Phishing Automation Analysis Lab |  <a href="https://github.com/GaryCollins-Sec/Phishing-Automation-Analysis-Lab"> Phishing Automation Analysis Lab                                            |
 | Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a> |                              |
-| Controlled Penetration Testing Lab |   <a href="https://github.com/GaryCollins-Sec/Attack-Surface-Lab/tree/main"> Attack-Surface Lab |
+| Controlled Penetration Testing Lab |   <a href="https://github.com/GaryCollins-Sec/Attack-Surface-Lab/tree/main"> Controlled Penetration Testing Lab </a> |
 
 
 
@@ -54,22 +54,6 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 ![Fakenet-NG](https://img.shields.io/badge/-Fakenet--NG-008080?&style=for-the-badge&logo=network-wired&logoColor=FFFFFF)
 
 
-### Database Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-</div>
-
-### Machine Learning Tools
-<div>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-XGBoost-00599C?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python%20Inference-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning%20Assistant-007ACC?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Human%20In%20The%20Loop-FF6F00?style=for-the-badge&logo=target&logoColor=white" />
-</p>
 </div>
 
 ### Digital Forensics Tools
@@ -84,9 +68,8 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 ### Cloud Tools
 <div>
     <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=yellow" />
-    <img src="https://img.shields.io/badge/-AWS GuardDuty-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM%20Cloud-1261FE?&style=for-the-badge&logo=IBM%20Cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=blue" />
+ 
 
 
 </div>
@@ -95,7 +78,6 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 <div>
     <img src="https://img.shields.io/badge/-Splunk-FAB81E?&style=for-the-badge&logo=Splunk&logoColor=black" />
     <img src="https://img.shields.io/badge/-Wazuh-0094CE?&style=for-the-badge&logo=Wazuh&logoColor=blue" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft%20Sentinel&logoColor=white" />
 
 
 </div>
@@ -152,4 +134,4 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 - <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a>
 - <a href="https://github.com/GaryCollins-Sec/Phishing-Automation-Analysis-Lab"> Phishing Automation Analysis Lab
 - <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
-- <a href="https://github.com/GaryCollins-Sec/Attack-Surface-Lab/tree/main"> Attack-Surface Lab |
+- <a href="https://github.com/GaryCollins-Sec/Attack-Surface-Lab/tree/main"> Controlled Penetration Testing Lab </a> |
