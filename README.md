@@ -19,7 +19,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 |Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |               
 |Phishing Automation Analysis Lab |  <a href="https://github.com/GaryCollins-Sec/Phishing-Automation-Analysis-Lab"> Phishing Automation Analysis Lab                                            |
 | Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a> |                              |
-| Controlled Penetration Testing lab: Exploiting Legacy Systems |   <a href="https://github.com/GaryCollins-Sec/Attack-Surface-Lab/tree/main"> Attack-Surface Lab |
+| Controlled Penetration Testing Lab: Exploiting Legacy Systems |   <a href="https://github.com/GaryCollins-Sec/Attack-Surface-Lab/tree/main"> Attack-Surface Lab |
 
 
 
