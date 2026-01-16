@@ -18,7 +18,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 | Cloud Security Lab |  <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab </a>                     |
 |Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |             
 | Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |<a href="https://github.com/GaryCollins-Sec/Hybrid-Malware-Analysis"> Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a> |
-| Azure Sentinel SIEM: Real-Time Honeypot Threat Mapping |                                           |
+| Azure Sentinel SIEM: Real-Time Honeypot Threat Mapping | <a href="https://github.com/GaryCollins-Sec/Azure-Sentinel-SIEM-Real-Time-Honeypot-Threat-Mapping"> Azure Sentinel SIEM: Real-Time Honeypot Threat Mapping  </a>                                       |
 
 
 
@@ -120,8 +120,9 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 </div>
 
 ## Projects
-- <a href="https://github.com/GaryCollins-Sec/SOC-Automation">SOC Automation<a>
+- <a href="https://github.com/GaryCollins-Sec/SOC-Automation">SOC Automation</a>
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
 - <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab</a>
 - <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a>
-- <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
+- <a href="https://github.com/GaryCollins-Sec/Hybrid-Malware-Analysis"> Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
+- <a href="https://github.com/GaryCollins-Sec/Azure-Sentinel-SIEM-Real-Time-Honeypot-Threat-Mapping"> Azure Sentinel SIEM: Real-Time Honeypot Threat Mapping  </a>
