@@ -42,18 +42,6 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 
 </div>
 
-### Malware Analysis Tools
-<div>
-
-![HxD](https://img.shields.io/badge/-HxD_64--bit-8B0000?&style=for-the-badge&logo=windows&logoColor=white)
-![PEStudio](https://img.shields.io/badge/-PEStudio-0078D4?&style=for-the-badge&logo=windows&logoColor=white)
-![Procmon](https://img.shields.io/badge/-Procmon-4B0082?&style=for-the-badge&logo=windows&logoColor=FFD700)
-![Regshot](https://img.shields.io/badge/-Regshot-FF4500?&style=for-the-badge&logo=windows&logoColor=FFFFFF)
-![Fakenet-NG](https://img.shields.io/badge/-Fakenet--NG-008080?&style=for-the-badge&logo=network-wired&logoColor=FFFFFF)
-
-
-</div>
-
 
 
 ### Cloud Tools
