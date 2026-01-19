@@ -17,7 +17,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 | Cloud Security Lab |  <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab </a>                     |
 |Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |             
-
+| Controlled Penetration Testing Lab Using Kali Linux and Metasploitable 2 |                                                        |
 
 
 ## Tools
@@ -110,4 +110,4 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
 - <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab</a>
 - <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a>
-
+- Controlled Penetration Testing Lab Using Kali Linux and Metasploitable 2
