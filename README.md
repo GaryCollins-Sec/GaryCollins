@@ -13,11 +13,11 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Detection Engineering Lab  | <a href="https://github.com/GaryCollins-Sec/Siem-Home-Lab">Siem Home Lab<a> |
+|Detection Engineering Lab  | <a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Lab">Detection Engineering Lab<a> |
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 |Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |
-| Cloud Security Lab |  <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab"> Cloud Security Lab </a>                     |
-| Controlled Penetration Testing Lab Using Kali Linux and Metasploitable 2 |                                                        |
+
+
 
 
 ## Tools
@@ -109,5 +109,3 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 - <a href="https://github.com/GaryCollins-Sec/Siem-Home-Lab">Siem Home Lab<a>
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
 - <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a>
-- <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab"> Cloud‑Based Honeypot Deployment and Threat Monitoring Using Azure Sentinel </a>                 
-- Controlled Penetration Testing Lab Using Kali Linux and Metasploitable 2
