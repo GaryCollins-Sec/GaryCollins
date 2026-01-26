@@ -13,7 +13,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Detection Engineering & Network Analysis Lab  | <a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Lab">Detection Engineering & Network Analysis Lab<a> |
+|Detection Engineering & Network Analysis Lab  | <a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab">Detection Engineering & Network Analysis Lab<a> |
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 
 
@@ -106,6 +106,6 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 </div>
 
 ## Projects
-- <a href="https://github.com/GaryCollins-Sec/Siem-Home-Lab">Siem Home Lab<a>
+- <a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab">Detection Engineering & Network Analysis Lab<a>
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
-- 
+  
