@@ -42,6 +42,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
   <img src="https://img.shields.io/badge/Suricata-FF6600?style=for-the-badge&logo=Suricata&logoColor=white" alt="Suricata" />
   <img src="https://img.shields.io/badge/Nmap-87CEEB?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Nessus-FF0000?style=for-the-badge&logo=Nessus&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/pfSense-EE3124?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
