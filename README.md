@@ -15,9 +15,8 @@ I build AI-driven solutions for security and operational challenges. My work spa
   
 
 ### AI & Machine Learning
-- [Time-Series Forecasting](link) – Predicted stock prices using LSTM models; achieved X% accuracy.  
-- [Image Classification](link) – Built a CNN to classify fashion images with Y% accuracy.  
-- [Customer Segmentation](link) – K-means clustering on retail dataset for targeted marketing analysis.
+- [Chatbot Assistant using vanilla python](link) – Able to ask the bot about the weather within a specific city and inquire information regarding a historical figure, a holiday, and so that it retrieves from the internet.  
+
 
 
 
