@@ -1,7 +1,7 @@
 # Hello, I'm Gary
 <a href="https://linkedin.com/in/garyjosephcollins"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**Applied Machine Learning & Cybersecurity Professional | Automation, Detection, Data**
+**Cybersecurity Professional | AI Security Engineer | Automation • Cloud Security • Detection & VM**
 
 I build AI-driven solutions for security and operational challenges. My work spans applied machine learning, detection engineering, cloud security, and automation, with a strong foundation in software development, network analysis, and cybersecurity. I enjoy solving real-world problems through data, code, and creative system design.
 
@@ -13,13 +13,6 @@ I build AI-driven solutions for security and operational challenges. My work spa
 - [AI Security Scanner for AWS S3](https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3) – Applied ML to automatically detect misconfigurations and security risks in AWS S3 buckets.  
 
   
-
-### **AI & Machine Learning**
-- [Chatbot Assistant using vanilla python](https://github.com/GaryCollinsAI-Sec/Chatbot-Assistant-using-vanilla-python) – Able to ask the bot about the weather within a specific city and inquire information regarding a historical figure, a holiday, and so that it retrieves from the internet.  
-- [Prompt Engineering: Orchestrating ChatGPT for Complex Workflows](https://github.com/GaryCollinsAI-Sec/Prompt-Engineering-Orchestrating-ChatGPT-for-Complex-Workflows) - Demonstrating the transition from basic AI usage to advanced AI Orchestration by utilizing structured frameworks and recursive logic such as Task Decomposition, Prompt Chaining, and Meta-Prompting to transform ChatGPT into a high-precision execution engine for complex, multi-step workflows.
-
-
-
 ### **Cybersecurity & Cloud**
 - [Detection Engineering & Network Analysis Lab](https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab) – Simulated network environments to develop and test detection rules.  
 - [Vulnerability Management Lab](https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab) – Conducted automated vulnerability scans and risk assessments.  
