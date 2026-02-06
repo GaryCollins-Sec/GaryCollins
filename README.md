@@ -26,7 +26,7 @@ I build AI-driven solutions for security and operational challenges. My work spa
 | Category                | Tools & Technologies |
 |-------------------------|--------------------|
 | Programming & Scripting | Python, Bash, SQL, PowerShell, C++, Java |
-| AI / Machine Learning    | Pandas, Scikit-learn, Jupyter Notebook, Cursor |
+| AI / Machine Learning    |  Cursor |
 | Network & Security      | Wireshark, Snort, Suricata, Nmap, Nessus, pfSense, Autopsy, E3 Forensics Platform |
 | Cloud & Infrastructure  | AWS, CloudFormation, Boto3, IBM Cloud, Docker |
 | SIEM & Monitoring       | Wazuh, Splunk |
