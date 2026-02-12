@@ -19,12 +19,23 @@ My work centers on detection engineering, applied ML, and practical security lab
 
 <h3>AI + Security</h3>
 <ul>
+
+<li>
+    <strong>
+      <a href="">
+        NeuralPhish-Detector
+      </a>
+    </strong> – Built an AI-driven detector that analyzes email content to accurately identify and score phishing threats using local language models.
+  </li>
+
+
+  
   <li>
     <strong>
       <a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3">
         AI Security Scanner for AWS S3
       </a>
-    </strong> – Built an ML-based scanner to detect S3 misconfigurations and security risks.
+    </strong> – Built an AI-based scanner to detect S3 misconfigurations and security risks.
   </li>
   <li>
     <strong>
