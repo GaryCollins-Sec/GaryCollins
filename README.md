@@ -9,8 +9,7 @@
 <h3>Cybersecurity Professional | Purple Team Operations | AI Security Engineer | Automation • Cloud Security • Detection & Vulnerability Management</h3>
 
 <p>
-I build security-focused systems using machine learning, cloud tooling, and automation. 
-My work centers on detection engineering, applied ML, and practical security labs that simulate real-world environments.
+I specialize in Purple Team Operations, bridging the gap between adversarial emulation and defensive engineering. I leverage Machine Learning and Automation to validate security controls, scale detection engineering, and streamline vulnerability management across cloud and on-premise infrastructures.
 </p>
 
 <hr>
