@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3>Cybersecurity | AI Security | Detection Engineering | Cloud & Automation</h3>
+<h3>Cybersecurity Analyst | Purple Teaming | Detection Engineering | AI Security | Cloud Automation</h3>
 
 <p>
 I build security-focused systems using machine learning, cloud tooling, and automation. 
