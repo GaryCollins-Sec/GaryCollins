@@ -25,6 +25,21 @@ Security Assessment: Legacy System Exploitation & Remediation
 </a>
 </strong> – Conducted controlled exploitation of legacy systems to identify attack paths, followed by remediation and hardening to validate defensive improvements.
 </li>
+
+
+
+<li>
+<strong>
+<a href="">
+Bug Bounty Hunter Lab
+</a>
+</strong> – An isolated, virtualized penetration testing lab utilizing pfSense as a network gateway to secure and monitor offensive security simulations between a Kali Linux attacking machine and the DVWA target.
+</li>
+
+
+
+
+  
 </ul>
 
 <h3>🛡 Detection & Defensive Engineering</h3>
